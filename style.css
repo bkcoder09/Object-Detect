@@ -1,0 +1,30 @@
+body{
+    background-size:cover;
+}
+
+.heading
+{
+font-size: 30px;
+width: 100%;
+margin: 0px;
+padding:25px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+#object_number{
+    font-size:18px;
+    margin-left:10px;
+}
+
+canvas{
+    box-shadow:15px 15px 15px grey;
+    border-radius:20px;
+    border-style:solid;
+    border-color:rgb(164, 115, 255);
+    border-width:5px;
+    margin-top:55px;
+}
